@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+dist/
+dist-ssr/
+
+# 日志与本地临时文件
+logs/
+*.log
+npm-debug.log*
+*.local
+
+# 编辑器与系统
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
